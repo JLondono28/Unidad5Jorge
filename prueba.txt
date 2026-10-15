@@ -1,0 +1,3 @@
+Nombre de usuario: Jorge
+Edad del usuario: 17
+Frase: Confia en el proceso
